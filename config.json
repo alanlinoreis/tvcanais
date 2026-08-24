@@ -1,18 +1,48 @@
 {
   "app": {
-    "versionCode": 3,
+    "versionCode": 4,
     "url": "https://raw.githubusercontent.com/alanlinoreis/tvcanais/main/TV-Canais.apk"
   },
   "domains": [
-    "rdcanais.top", "rdcanais.net", "rdcanais.com", "rdcanais.cc",
-    "rdcanais.xyz", "rdcanais.online", "reidoscanais.st", "reidoscanais.com"
+    "rdcanais.top",
+    "rdcanais.net",
+    "rdcanais.com",
+    "rdcanais.cc",
+    "rdcanais.xyz",
+    "rdcanais.online",
+    "reidoscanais.st",
+    "reidoscanais.com"
   ],
   "channels": [
-    { "name": "ESPN 1", "premium": "/espn",  "alt": "/espnalternativo" },
-    { "name": "ESPN 2", "premium": "/espn2", "alt": "/espn2alternativo" },
-    { "name": "ESPN 3", "premium": "/espn3", "alt": "/espn3alternativo" },
-    { "name": "ESPN 4", "premium": "/espn4", "alt": "/espn4alternativo" },
-    { "name": "ESPN 5", "premium": "/espn5", "alt": "/espn5alternativo" },
-    { "name": "ESPN 6", "premium": "/espn6", "alt": "/espn6alternativo" }
+    {
+      "name": "ESPN 1",
+      "premium": "/espn",
+      "alt": "/espnalternativo"
+    },
+    {
+      "name": "ESPN 2",
+      "premium": "/espn2",
+      "alt": "/espn2alternativo"
+    },
+    {
+      "name": "ESPN 3",
+      "premium": "/espn3",
+      "alt": "/espn3alternativo"
+    },
+    {
+      "name": "ESPN 4",
+      "premium": "/espn4",
+      "alt": "/espn4alternativo"
+    },
+    {
+      "name": "ESPN 5",
+      "premium": "/espn5",
+      "alt": "/espn5alternativo"
+    },
+    {
+      "name": "ESPN 6",
+      "premium": "/espn6",
+      "alt": "/espn6alternativo"
+    }
   ]
 }
